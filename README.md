@@ -40,7 +40,7 @@ Passionate about Embedded Systems, IoT, and Electronics. I enjoy building projec
 ## Connect With Me
 📧 Email: rilwanahamed88@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/rilwan-ahamed-s-b23057294?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔗 LinkedIn: https://linkedin.com/in/rilwan-ahamed-s
 
 💻 GitHub: https://github.com/rilwanahamed88-bit
 
